@@ -1,2 +1,28 @@
 # niridots
 config files of my niri setup.
+
+- base ingredients:  
+  + arch linux + niri  
+  + catppuccin mocha (mauve & pink preferred)  
+  + jetbrains mono nf  
+  + noctalia's shell (our shell)  
+  + papirus icons  
+  + catppuccin gtk theme  
+  + firefox + firefox colors extension + catppuccin mocha  
+  + grub & sddm themes  
+  + discord + openasar + vencord + catppuccin mocha  
+  
+- config files:  
+  + cava  
+  + fastfetch  
+  + fuzzel  
+  + kitty  
+  + niri  
+  + noctalia  
+  + wallpaper  
+  
+- additional:  
+  + cbonsai  
+  + pipes.sh  
+  + neovim (not main editor)  
+  + yay  
