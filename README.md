@@ -1,4 +1,6 @@
 # niridots
+<img src="https://github.com/notaryagg/niridots/blob/main/screenshots/desktop1.png?raw=true">
+<img src="https://github.com/notaryagg/niridots/blob/main/screenshots/desktop2.png?raw=true">
 config files of my niri setup.
 
 - base ingredients:  
