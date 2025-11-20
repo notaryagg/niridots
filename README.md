@@ -16,7 +16,8 @@ config files of my niri setup.
   + catppuccin gtk theme  
   + firefox + firefox colors extension + catppuccin mocha  
   + grub & sddm themes  
-  + discord + openasar + vencord + catppuccin mocha  
+  + discord + openasar + vencord + catppuccin mocha
+  + oh-my-posh + catppuccin_mocha theme
   
 - config files:  
   + cava  
