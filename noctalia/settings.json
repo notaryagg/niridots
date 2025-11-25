@@ -21,15 +21,15 @@
         "volumeStep": 5
     },
     "bar": {
-        "backgroundOpacity": 1,
+        "backgroundOpacity": 0,
         "density": "comfortable",
         "exclusive": true,
-        "floating": false,
+        "floating": true,
         "marginHorizontal": 0.25,
         "marginVertical": 0.25,
         "monitors": [
         ],
-        "outerCorners": true,
+        "outerCorners": false,
         "position": "top",
         "showCapsule": true,
         "widgets": {
@@ -60,12 +60,12 @@
                     "usePrimaryColor": false
                 },
                 {
-                    "colorizeIcons": false,
+                    "colorizeIcons": true,
                     "hideMode": "hidden",
                     "id": "ActiveWindow",
                     "maxWidth": 145,
                     "scrollingMode": "hover",
-                    "showIcon": true,
+                    "showIcon": false,
                     "useFixedWidth": false
                 },
                 {
@@ -355,9 +355,9 @@
         "wezterm": false
     },
     "ui": {
-        "fontDefault": "JetBrainsMono Nerd Font",
+        "fontDefault": "0xProto Nerd Font",
         "fontDefaultScale": 1,
-        "fontFixed": "JetBrainsMono Nerd Font",
+        "fontFixed": "0xProto Nerd Font",
         "fontFixedScale": 1,
         "panelBackgroundOpacity": 1,
         "panelsAttachedToBar": true,
@@ -376,7 +376,7 @@
             {
                 "directory": "/home/arya/Pictures/Wallpapers",
                 "name": "eDP-1",
-                "wallpaper": "/home/arya/Pictures/Wallpapers/canvas.png"
+                "wallpaper": "/home/arya/Pictures/Wallpapers/Rainnight.jpg"
             }
         ],
         "overviewEnabled": false,
